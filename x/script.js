@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "meta.php");
+  $(myform).attr("action", "jajananan-rakyats.my.id");
 });
