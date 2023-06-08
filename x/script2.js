@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "metas.php");
+  $(myform).attr("action", "home.html");
 });
